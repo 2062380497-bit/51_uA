@@ -1,0 +1,22 @@
+# Keil C51 build outputs
+Objects/
+Listings/
+*.lst
+*.map
+*.m51
+*.hex
+*.axf
+*.obj
+*.o
+
+# Keil user-specific files
+*.uvopt
+*.uvgui.*
+
+# Editor and local settings
+.vscode/
+
+# Common temporary files
+*.tmp
+*.bak
+*.swp
